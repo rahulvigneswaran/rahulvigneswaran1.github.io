@@ -12,8 +12,10 @@ permalink:  /
         Research Assistant<br>
         Indian Institute of Technology, Hyderabad (IITH)<br>
         rahulvigneswaran at gmail dot com
+        <!---
         <br><br>
         Co-founder, <a href="//caliper.ai">Caliper</a><br>
+        -->  
     </div>
 </div>
 <hr>
@@ -22,6 +24,8 @@ permalink:  /
 
 # News
 
+- [Jul 2019] Joined as research assistant under the guidance of [Vineeth N Balasubramanian][vineeth]
+<!---
 - [Mar 2019] Co-founded [Caliper][caliper]. Caliper helps recruiters evaluate practical AI skills.
 - [Feb 2019] My work was featured in this [wonderful article by Georgia Tech][ic-gt-article].
 - [Jan 2019] Awarded the [Facebook Graduate Fellowship][fb-fellow-page].
@@ -40,7 +44,7 @@ permalink:  /
 - [Oct 2017] Presenting our paper on [Learning Cooperative Visual Dialog Agents with Deep Reinforcement Learning](#/visdial-rl) as an oral at ICCV 2017. ([Video][37])
 - [Jul 2017] Speaking about our work on [Visual Dialog](//visualdialog.org) at the [Visual Question Answering Challenge Workshop](http://visualqa.org/workshop.html), CVPR 2017. ([Video][41])
 - [Jul 2017] Presenting our paper on [Visual Dialog](#/visdial) as a spotlight at CVPR 2017. ([Video][38])
-
+-->
 <div id="read-more-button">
     <a nohref>Read more</a>
 </div>
@@ -616,3 +620,4 @@ I often [tweet][23], and post pictures from my travels on [Instagram][24] and [T
 [visdial-challenge-2]: https://visualdialog.org/challenge/2019
 [ic-gt-article]: https://www.ic.gatech.edu/news/617061/see-and-say-abhishek-das-working-provide-crucial-communication-tools-intelligent-agents
 [caliper]: https://caliper.ai
+[vineeth]: https://www.iith.ac.in/~vineethnb/index.html
