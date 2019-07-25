@@ -12,7 +12,7 @@ permalink:  /
         Research Assistant<br>
         Indian Institute of Technology, Hyderabad (IITH)<br>
         rahulvigneswaran at gmail dot com
-        <!---
+        <!--
         <br><br>
         Co-founder, <a href="//caliper.ai">Caliper</a><br>
         -->  
@@ -25,7 +25,7 @@ permalink:  /
 # News
 
 - [Jul 2019] Joined as research assistant under the guidance of [Vineeth N Balasubramanian][vineeth]
-<!---
+<!--
 - [Mar 2019] Co-founded [Caliper][caliper]. Caliper helps recruiters evaluate practical AI skills.
 - [Feb 2019] My work was featured in this [wonderful article by Georgia Tech][ic-gt-article].
 - [Jan 2019] Awarded the [Facebook Graduate Fellowship][fb-fellow-page].
@@ -55,6 +55,7 @@ permalink:  /
 
 # Bio
 
+<!--
 I am a 3rd year Computer Science PhD student at Georgia Tech, advised by [Dhruv Batra][2],
 and working closely with [Devi Parikh][3]. My research focuses on deep learning
 and its applications in building agents that can <i>see</i> (computer vision),
