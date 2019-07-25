@@ -54,7 +54,7 @@ permalink:  /
 
 # Bio
 
-<!--
+
 I am a 3rd year Computer Science PhD student at Georgia Tech, advised by [Dhruv Batra][2],
 and working closely with [Devi Parikh][3]. My research focuses on deep learning
 and its applications in building agents that can <i>see</i> (computer vision),
