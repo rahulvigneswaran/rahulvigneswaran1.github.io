@@ -1,8 +1,8 @@
 ---
 
 layout:     post
-title:      "Google Summer of Code Reunion Summit"
-date:       2014-11-03 00:00:00
+title:      "Test Post"
+date:       2019-07-25 00:00:00
 excerpt:    "4-day unconference for GSoC mentors & students in San Jose, CA"
 logo:       "/img/gsoc-reunion-summit/tshirt-wall.jpg"
 
