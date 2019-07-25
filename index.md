@@ -24,8 +24,7 @@ permalink:  /
 
 # News
 
-- [Jul 2019] Joined as research assistant under the guidance of [Vineeth N Balasubramanian][vineeth]
-<!--
+- [Jul 2019] Joined as Research assistant under the guidance of [Vineeth N Balasubramanian][vineeth].
 - [Mar 2019] Co-founded [Caliper][caliper]. Caliper helps recruiters evaluate practical AI skills.
 - [Feb 2019] My work was featured in this [wonderful article by Georgia Tech][ic-gt-article].
 - [Jan 2019] Awarded the [Facebook Graduate Fellowship][fb-fellow-page].
