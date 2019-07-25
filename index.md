@@ -9,9 +9,9 @@ permalink:  /
         <img src="/img/cover2.jpg">
     </div>
     <div class="col-sm-6 col-xs-12" style="margin-bottom: 0;">
-        Computer Science PhD Student<br>
-        Georgia Tech<br>
-        abhshkdz at gatech dot edu
+        Research Assistant<br>
+        Indian Institute of Technology, Hyderabad (IITH)<br>
+        rahulvigneswaran at gmail dot com
         <br><br>
         Co-founder, <a href="//caliper.ai">Caliper</a><br>
     </div>
