@@ -1,10 +1,10 @@
 ---
 
 layout:     post
-title:      "Test Post"
+title:      "Invariance between subspaces"
 date:       2019-07-25 00:00:00
 excerpt:    "4-day unconference for GSoC mentors & students in San Jose, CA"
-logo:       "/img/gsoc-reunion-summit/tshirt-wall.jpg"
+logo:       ""
 
 ---
 
