@@ -1,11 +1,9 @@
 ---
-
-layout:     post
-title:      "Summer of Code"
-date:       2013-08-01 00:00:00
-excerpt:    "ICU Visualization Project & PHP Security Project"
-logo:       "/img/summer-of-code/icu-visualizations-mockup.png"
-
+title: Summer of Code
+date: 2013-08-01 00:00:00 Z
+layout: post
+excerpt: ICU Visualization Project & PHP Security Project
+logo: "/img/summer-of-code/icu-visualizations-mockup.png"
 ---
 
 This summer has proved to be a busy one for me. I've been working in parallel on two major open-source projects. One is Emory University's Intensive Care Unit Visualization & Analytics project, for which I was selected as a Google Summer of Code developer, and the other is OWASP's PHP Security Project. It has been a huge learning experience so far.

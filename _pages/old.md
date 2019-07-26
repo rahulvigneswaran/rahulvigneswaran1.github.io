@@ -1,7 +1,7 @@
 ---
-layout:     default
-title:      Archive
-permalink:  /archive/
+title: Archive
+permalink: "/archive/"
+layout: default
 ---
 
 <div class="row">

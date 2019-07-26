@@ -1,10 +1,8 @@
 ---
-
-layout:     post
-title:      "Gradient Descent is Hard"
-date:       2014-09-20 00:00:00
-excerpt:    "Big things happen when you do the little things right"
-
+title: Gradient Descent is Hard
+date: 2014-09-20 00:00:00 Z
+layout: post
+excerpt: Big things happen when you do the little things right
 ---
 
 Remember that time when you told yourself, "I am going to work continuously for six hours and get this thing done!" and it didn't happen? That time when you went to bed at three in the night with the resolution that you'd get up at seven and work, only to wake up much later?

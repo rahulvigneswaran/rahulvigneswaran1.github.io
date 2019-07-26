@@ -1,7 +1,6 @@
 ---
-layout:     page
-title:
-permalink:  /
+permalink: "/"
+layout: page
 ---
 
 <div class="row">

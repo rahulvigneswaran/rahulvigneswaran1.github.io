@@ -1,3 +1,13 @@
+---
+title: Rahulvigneswaran.Github.Io
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 encoding: utf-8
 name: Rahul Vigneswaran K
 url: http://rahulvigneswaran.github.io
@@ -5,5 +15,6 @@ author:
   name: Rahul Vigneswaran K
   email: rahulvigneswaran@gmail.com
 description: Research Assistant at IITH.
-permalink: /posts/:title/
-include: ['_pages']
+permalink: "/posts/:title/"
+include:
+- _pages

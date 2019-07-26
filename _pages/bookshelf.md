@@ -1,7 +1,7 @@
 ---
-layout:     page
-title:      Bookshelf
-permalink:  /bookshelf/
+title: Bookshelf
+permalink: "/bookshelf/"
+layout: page
 ---
 
 <style type="text/css">

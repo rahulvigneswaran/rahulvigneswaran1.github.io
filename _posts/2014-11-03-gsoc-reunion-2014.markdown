@@ -1,11 +1,9 @@
 ---
-
-layout:     post
-title:      "Google Summer of Code Reunion Summit"
-date:       2014-11-03 00:00:00
-excerpt:    "4-day unconference for GSoC mentors & students in San Jose, CA"
-logo:       "/img/gsoc-reunion-summit/tshirt-wall.jpg"
-
+title: Google Summer of Code Reunion Summit
+date: 2014-11-03 00:00:00 Z
+layout: post
+excerpt: 4-day unconference for GSoC mentors & students in San Jose, CA
+logo: "/img/gsoc-reunion-summit/tshirt-wall.jpg"
 ---
 
 In celebration of the 10th anniversary of Google's prestigious Summer of Code program, they organized a reunion summit for mentors and students from the past 10 iterations of Summer of Code in San Jose, California from October 23-26. I attended the event as a student and a representative of the [OWASP foundation](https://www.owasp.org/index.php/Main_Page).

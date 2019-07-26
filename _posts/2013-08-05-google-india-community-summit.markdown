@@ -1,11 +1,9 @@
 ---
-
-layout:     post
-title:      "Google India Community Summit"
-date:       2013-08-05 00:00:00
-excerpt:    "4-day summit for GSAs, GDGs, GBGs to engage with Googlers in Goa"
-logo:       "/img/google-india-community-summit/gics-logo.jpg"
-
+title: Google India Community Summit
+date: 2013-08-05 00:00:00 Z
+layout: post
+excerpt: 4-day summit for GSAs, GDGs, GBGs to engage with Googlers in Goa
+logo: "/img/google-india-community-summit/gics-logo.jpg"
 ---
 
 Back in May, Google initiated it's Google Student Ambassador Program in India. Heads of institutes were notified of this program and asked to recommend potential students. I was fortunate enough to be recommended by Professor SP Gupta (Deputy Director) among 10 other candidates from IIT Roorkee. Next, I had to submit an application explaining my interest in Google products, the program and everything else I had been involved in at any point of my college life. I made it through this round of sieving and within a week had to appear for an interview over phone as the final round of shortlisting. The questions mainly revolved around my technical knowledge of Google products, prior experience in event management and passion for helping the community grow. The interview lasted ~20 minutes but it was undoubtedly one of the most important phone conversations I've ever had. I obviously made it through the interview. Obvious because otherwise this post wouldn't be titled the way it is!

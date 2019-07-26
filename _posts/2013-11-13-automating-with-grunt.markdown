@@ -1,11 +1,10 @@
 ---
-
-layout:     post
-title:      "Workflow Automation with Grunt"
-date:       2013-11-13 00:00:00
-excerpt:    "Grunt is a JS command-line build tool that is used to automate repetitive tasks"
-logo:       "/img/grunt/logo.png"
-
+title: Workflow Automation with Grunt
+date: 2013-11-13 00:00:00 Z
+layout: post
+excerpt: Grunt is a JS command-line build tool that is used to automate repetitive
+  tasks
+logo: "/img/grunt/logo.png"
 ---
 
 ![Grunt](/img/grunt/logo.png)

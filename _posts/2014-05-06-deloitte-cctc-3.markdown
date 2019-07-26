@@ -1,10 +1,8 @@
 ---
-
-layout:     post
-title:      "Collegiate Cyber Threat Competition - Wave III"
-date:       2014-05-06 00:00:00
-excerpt:    "SDSLabs participated in and won the 3rd Deloitte CCTC"
-
+title: Collegiate Cyber Threat Competition - Wave III
+date: 2014-05-06 00:00:00 Z
+layout: post
+excerpt: SDSLabs participated in and won the 3rd Deloitte CCTC
 ---
 
 Deloitte has been organizing the Collegiate Cyber Threat Competition every year for the past 3 years. SDSLabs has been fortunate enough to [be the winning team][cctc1] [three years in a row now][cctc2]. Although they change the format of the competition every year and will continue to do so, their main idea is to get students and industry experts together on the same platform, and discuss and tackle challenges in cyber security. Taking part in the competition is in itself an immense learning experience. This post summarizes my experience at this year's CCTC.
