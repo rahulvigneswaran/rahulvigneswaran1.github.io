@@ -1,12 +1,13 @@
 ---
-permalink: /
-title: "About me"
-excerpt: "About me"
+title: About me
+permalink: "/"
+excerpt: About me
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+redirect_from:
+- "/about/"
+- "/about.html"
 ---
+
 I am a Research Assistant at [Indian Institute of Technology, Hyderabad (IITH)](https://cse.iith.ac.in/){:target="_blank"} mentored by [Vineeth N Balasubramanian](https://www.iith.ac.in/~vineethnb/index.html){:target="_blank"}.
 
 

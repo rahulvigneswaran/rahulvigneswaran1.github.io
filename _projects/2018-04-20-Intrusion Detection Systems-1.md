@@ -1,13 +1,16 @@
 ---
-title: "Intrusion Detection Systems"
+title: Intrusion Detection Systems
+date: 2018-04-20 00:00:00 -07:00
+permalink: "/projects/2018-04-20-Intrusion Detection Systems-1"
 collection: projects
-type: "Research Project"
-excerpt: 'This project consists of two phases - an Evaluation of Shallow and Deep Neural Networks for Network Intrusion Detection Systems in Cyber Security and a survey on on Network and Host based Intrusion Detection Systems.'
-permalink: /projects/2018-04-20-Intrusion Detection Systems-1
-venue: "Center for Computational Engineering and Networking (CEN)"
-date: 2018-04-20
-location: "India"
+type: Research Project
+excerpt: This project consists of two phases - an Evaluation of Shallow and Deep Neural
+  Networks for Network Intrusion Detection Systems in Cyber Security and a survey
+  on on Network and Host based Intrusion Detection Systems.
+venue: Center for Computational Engineering and Networking (CEN)
+location: India
 ---
+
 ## Tasks
 - [x] Implement and analyze Deep and Shallow Neural Nets in the Cybersecurity use case of Intrusion Detection Systems (IDS). 
 - [x] Analyze and study various state-of-art implementations of Host and Network-based Intrusion Detection Systems (IDS).
