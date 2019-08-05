@@ -1,13 +1,17 @@
 ---
-title: "Data-Driven Computing for Elasticity via Chebyshev Approximation"
+title: Data-Driven Computing for Elasticity via Chebyshev Approximation
+date: 2019-04-01 00:00:00 -07:00
+permalink: "/projects/2019-02-01-Data-Driven Computing for Elasticity via Chebyshev
+  Approximation-4"
 collection: projects
-type: "Research Project"
-excerpt: 'The aim of this project is to develop a data-driven system that uses chebyshev approximation for rapid identification of stress-strain values in non-linearly elastic body.'
-permalink: /projects/2019-02-01-Data-Driven Computing for Elasticity via Chebyshev Approximation-4
-venue: "Center for Computational Engineering and Networking (CEN)"
-date: 2019-04-01
-location: "India"
+type: Research Project
+excerpt: The aim of this project is to develop a data-driven system that uses chebyshev
+  approximation for rapid identification of stress-strain values in non-linearly elastic
+  body.
+venue: Center for Computational Engineering and Networking (CEN)
+location: India
 ---
+
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/data-driven-computing-in-elasticity-via/stress-strain-relation-on-non-linear)](https://paperswithcode.com/sota/stress-strain-relation-on-non-linear)
 ## Tasks
 - [x]  Leverage the relation between Chebyshev polynomial of the ﬁrst kind and approximation theory to develop a data-driven solver for nonlinearly elastic materials.  

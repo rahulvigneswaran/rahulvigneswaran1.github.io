@@ -1,16 +1,21 @@
 ---
-title: 'Data-Driven Computing for Elasticity via Chebyshev Approximation'
-date: 2019-04-01
-permalink: /posts/2019/01/2019-02-01-Data-Driven Computing for Elasticity via Chebyshev Approximation-4/
-excerpt: 'This article experiments with a data-driven approach for computing elasticity by means of a non-parametric regression approach rather than an optimization approach. The Chebyshev approximation is utilized for tackling the material data-sets non-linearity of the elasticity. Also, additional efforts have been taken to compare the results with several other state-of-the-art methodologies.'
+title: Data-Driven Computing for Elasticity via Chebyshev Approximation
+date: 2019-04-01 00:00:00 -07:00
+permalink: "/posts/2019/01/2019-02-01-Data-Driven Computing for Elasticity via Chebyshev
+  Approximation-4/"
 tags:
-  - data-driven computational mechanics
-  - modelfree method
-  - nonparametric method
-  - chebyshev polynomials
-  - elasticity
-  - chebyshev approximation
-  - chebfun
+- data-driven computational mechanics
+- modelfree method
+- nonparametric method
+- chebyshev polynomials
+- elasticity
+- chebyshev approximation
+- chebfun
+excerpt: This article experiments with a data-driven approach for computing elasticity
+  by means of a non-parametric regression approach rather than an optimization approach.
+  The Chebyshev approximation is utilized for tackling the material data-sets non-linearity
+  of the elasticity. Also, additional efforts have been taken to compare the results
+  with several other state-of-the-art methodologies.
 ---
 
 This article experiments with a data-driven approach for computing elasticity by means of a non-parametric regression approach rather than an optimization approach. The Chebyshev approximation is utilized for tackling the material data-sets non-linearity of the elasticity. Also, additional efforts have been taken to compare the results with several other state-of-the-art methodologies.

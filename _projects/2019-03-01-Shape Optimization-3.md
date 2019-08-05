@@ -1,13 +1,15 @@
 ---
-title: "Shape Optimization using DMD and POD"
+title: Shape Optimization using DMD and POD
+date: 2019-03-01 00:00:00 -08:00
+permalink: "/projects/2019-03-01-Shape Optimization-3"
 collection: projects
-type: "Research Project"
-excerpt: 'The aim of this project is to develop a data-driven shape optimization technique using DMD and POD.'
-permalink: /projects/2019-03-01-Shape Optimization-3
-venue: "Center for Computational Engineering and Networking (CEN)"
-date: 2019-03-01
-location: "India"
+type: Research Project
+excerpt: The aim of this project is to develop a data-driven shape optimization technique
+  using DMD and POD.
+venue: Center for Computational Engineering and Networking (CEN)
+location: India
 ---
+
 ## Tasks
 - [x] Explore the idea of Data-driven shape optimization, especially in ship hulls.
 - [x] Use Proper Orthogonal Decomposition based model order reduction approach and Dynamic Mode Decomposition to reduce the simulation time of turbulent ﬂow.

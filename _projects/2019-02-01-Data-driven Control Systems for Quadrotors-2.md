@@ -1,13 +1,15 @@
 ---
-title: "Data-driven Control Systems for Quadrotors"
+title: Data-driven Control Systems for Quadrotors
+date: 2019-02-01 00:00:00 -08:00
+permalink: "/projects/2019-02-01-Data-driven Control Systems for Quadrotors-2"
 collection: projects
-type: "Research Project"
-excerpt: 'The aim of this project is to study the dynamics of a quadcoptor in detail in order to develop a data-driven control system for it.'
-permalink: /projects/2019-02-01-Data-driven Control Systems for Quadrotors-2
-venue: "Center for Computational Engineering and Networking (CEN)"
-date: 2019-02-01
-location: "India"
+type: Research Project
+excerpt: The aim of this project is to study the dynamics of a quadcoptor in detail
+  in order to develop a data-driven control system for it.
+venue: Center for Computational Engineering and Networking (CEN)
+location: India
 ---
+
 ## Tasks
 - [x] Study the complex dynamics of an ideal quadrotor
 - [x] Explore the idea of data-driven control systems in them.
